@@ -1,0 +1,20 @@
+{
+  "name": "token_cheker",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Frozenshift",
+  "license": "ISC",
+  "dependencies": {
+    "@ton/core": "^0.59.0",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.5.0",
+    "pino-pretty": "^11.3.0"
+  }
+}
